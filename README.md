@@ -1,15 +1,38 @@
 # QA Tester Portfolio
 
-## About me
+## About Me
+
+Hello! My name is Valeria.
+
 I am a beginner QA tester from Finland.
-I study software testing and QA basics.
+I study software testing and learn manual testing tools and methods.
 
 ## Skills
-- Manual testing
-- Test cases
-- Bug reports
-- Checklists
-- GitHub basics
 
-## Example project
-I tested a demo website and created test cases.
+* Manual Testing
+* Test Cases
+* Bug Reports
+* Checklists
+* Basic GitHub
+* Basic Jira
+
+## Tools
+
+* GitHub
+* Google Chrome
+* DevTools
+* Jira (basic)
+
+## My Practice Projects
+
+### Demo Website Testing
+
+* Created test cases
+* Reported bugs
+* Tested website functions
+
+## Languages
+
+* Russian
+* English
+* Finnish (learning)
